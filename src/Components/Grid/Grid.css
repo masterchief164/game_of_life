@@ -1,0 +1,11 @@
+.row{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+}
+
+.col{
+  display: flex;
+  flex-direction: row;
+}
